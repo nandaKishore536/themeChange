@@ -1,0 +1,57 @@
+.webLogo {
+  width: 40px;
+  margin: 5px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.mBg {
+  display: flex;
+  align-items: center;
+}
+
+.h2 {
+  margin: 4px;
+  color: #000000;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.h1 {
+  margin: 4px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.x {
+  text-decoration: none;
+}
+.btn {
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
+
+.lightTheme {
+  width: 40px;
+  margin: 5px;
+  height: 40px;
+}
+
+.navBgLight {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+}
+
+.navBgDark {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333333;
+}

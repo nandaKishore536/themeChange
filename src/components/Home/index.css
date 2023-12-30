@@ -1,0 +1,41 @@
+.lightBg {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  min-height: 100vh;
+}
+.darkBg {
+  background-color: #000000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.homeHeadingLight {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 45px;
+  font-weight: 500;
+}
+
+.home {
+  height: 200px;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.homeHeadingDark {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 45px;
+  font-weight: 500;
+}
+
+.li {
+  list-style-type: none;
+}
